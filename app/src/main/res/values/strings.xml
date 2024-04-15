@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Логин</string>
+    <string name="Email">Емайл</string>
+    <string name="vvod_login">Введите логин</string>
+    <string name="vvod_email">Введите емайл</string>
+    <string name="name_maket">ViewApp</string>
+    <string name="button">ОТПРАВИТЬ</string>
+</resources>
